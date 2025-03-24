@@ -1,5 +1,5 @@
 # LowPoly
- 3d visual engine (framework) on C++ for esp32 microcontrollers. It uses advanced scene manager to execute scene logic and render models with TFT_eSPI library.
+3d graphics engine (framework) on C++ for esp32 microcontrollers. It uses advanced scene manager to execute scene logic and render models with TFT_eSPI library.
  
  **NO OPENGL USED, nothing of it! Rendering happens through primitives!**
 
