@@ -1,7 +1,7 @@
 {
   "name": "LowPoly",
   "version": "0.0.1",
-  "keywords": "Arduino, tft, display, NodeMCU, ESP32, 3d, renderer, engine",
+  "keywords": "Arduino, tft, display, NodeMCU, ESP32, 3d, renderer, engine, LowPoly",
   "description": "A PS1-ish 3d graphics engine library with optimisation for STM32 processors",
   "repository":
   {
