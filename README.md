@@ -5,6 +5,7 @@
 
 ## How to use LowPoly
 This is framework and main logic of scenes happends in special files - _scenes_.
+
 ![exapmple of src directory](directory_example.png)
 ### Scene file
 
