@@ -48,7 +48,7 @@ sceneManager.init();
 sceneManager.changeScene(std::shared_ptr<Tscene>(new Tscene()));//set test scene
 ```
 
-To make scene current to execute it's code you must call render function of SceneManager in loop.
+To make current scene to execute it's code you must call render function of SceneManager in loop.
 ```
 sceneManager.render();
 ```
