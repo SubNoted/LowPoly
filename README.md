@@ -3,6 +3,8 @@
  
  **NO OPENGL USED, nothing of it! Rendering happens through primitives!**
 
+ ![example of actual work](work_example.gif)
+
 ## How to use LowPoly
 This is framework and main logic of scenes happends in special files - _scenes_.
 
