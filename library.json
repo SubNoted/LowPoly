@@ -1,0 +1,22 @@
+{
+  "name": "LowPoly",
+  "version": "0.0.1",
+  "keywords": "Arduino, tft, display, NodeMCU, ESP32, 3d, renderer, engine",
+  "description": "A PS1-ish 3d graphics engine library with optimisation for STM32 processors",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/SubNoted/LowPoly"
+  },
+  "authors":
+  [
+    {
+        "name": "subnoted",
+        "email": "superprogergod@mail.ru",
+        "maintainer": true
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": "espressif32",
+  "headers": "lowPoly.h"
+}
